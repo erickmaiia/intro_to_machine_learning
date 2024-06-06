@@ -4,11 +4,7 @@
 
 Before training a Machine Learning model, it is essential to understand your data. Basic data exploration includes:
 
-- **Data Visualization:** Graphs and plots to visualize distributions and relationships between variables.
-
 - **Descriptive Statistics:** Mean, median, standard deviation, etc.
-
-- **Data Cleaning:** Handling missing values, removing duplicates, and correcting inconsistencies.
 
 ### Model Validation
 
