@@ -12,8 +12,6 @@ Validation is crucial to ensure that the model performs well on unseen data. Com
 
 - **Data Splitting:** Separating the data into training and testing sets.
 
-- **Cross-Validation:** Dividing the data into multiple parts and training the model multiple times, using different parts as the test set each time.
-
 #### Mean Absolute Error (MAE)
 
 A common metric used to evaluate the accuracy of a regression model. It measures the average magnitude of the errors between the predicted values and the actual values, without considering their direction.
